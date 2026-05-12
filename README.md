@@ -22,6 +22,7 @@ The main goal was to design a clean separation between game logic and user inter
 <p>
   <img src="assets/images/reversi_screenshot_2.jpg" width="350" alt="sreenshot 2"/>
 </p>
+
 ## AI Opponent
 
 The game includes an AI opponent based on a decision tree approach.
